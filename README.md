@@ -1,5 +1,5 @@
 # my new project
-[![Build Status](https://jenkins.services.ai4os.eu/buildStatus/icon?job=AI4OS-hub/my-new-project/main)](https://jenkins.services.ai4os.eu/job/AI4OS-hub/job/my-new-project/job/main/)
+[![Build Status](https://jenkins.services.ai4os.eu/buildStatus/icon?job=AI4OS-hub/my-new-project/test)](https://jenkins.services.ai4os.eu/job/AI4OS-hub/job/my-new-project/job/main/)
 
 my project here
 
